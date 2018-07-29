@@ -5,10 +5,15 @@
   "author": "Pablo Albaladejo Mestre <pablo.albaladejo.mestre@gmail.com",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "test": "node_modules/.bin/mocha --exit tests/**"
   },
   "dependencies": {
-    "express": "4.16.3"
+    "chai": "4.1.2",
+    "chai-http": "4.0.0",
+    "chai-things": "0.2.0",
+    "express": "4.16.3",
+    "mocha": "5.2.0"
   },
   "license": "MIT",
   "repository": {
