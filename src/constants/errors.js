@@ -1,0 +1,4 @@
+module.exports = {
+    NOT_FOUND: 'NOT_FOUND',
+    INVALID_REQUEST: 'INVALID_REQUEST'
+}
