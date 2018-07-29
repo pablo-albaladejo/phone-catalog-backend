@@ -1,0 +1,13 @@
+{
+  "name": "phone-catalog-backend",
+  "version": "1.0.0",
+  "description": "PhoneCatalogApp Backend",
+  "author": "Pablo Albaladejo Mestre <pablo.albaladejo.mestre@gmail.com",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "4.16.3"
+  }
+}
