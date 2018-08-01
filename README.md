@@ -35,7 +35,7 @@ more info: https://github.com/remy/nodemon
 | Endpoint | Method | Description |
 | --- | --- | --- |
 | /phones | all | List all the registered devices |
-| /phones/:id | all | Get and specific device by id |
+| /phones/:id | all | Get a specific device by id |
 
 ## Testing
 
