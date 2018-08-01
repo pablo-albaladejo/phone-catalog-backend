@@ -7,8 +7,8 @@ module.exports = {
             color: 'black',
             price: 999.0,
             currency: 'USD',
-            image_url: 'https://cdn.pixabay.com/photo/2017/10/15/16/20/iphone-2854305_1280.png',
-            thumb_url: 'https://cdn.pixabay.com/photo/2017/10/15/16/20/iphone-2854305_1280.png'
+            image_url: 'https://cdn.mos.cms.futurecdn.net/tU2W5UFJpeonTcaonExKmV-650-80.jpg',
+            thumb_url: 'https://cdn.mos.cms.futurecdn.net/tU2W5UFJpeonTcaonExKmV-650-80.jpg'
         },
         {
             id: 222,
@@ -24,7 +24,7 @@ module.exports = {
             id: 333,
             name: 'Samsung Galaxy S9',
             description: `The Samsung Galaxy S9 isn't quite the phone that the S9 Plus is - it's only got a single camera sensor, for one - but it's a more palm-friendly model that still packs the power and top screen quality of its sibling.`,
-            color: 'blue',
+            color: 'black',
             price: 566.0,
             currency: 'USD',
             image_url: 'https://cdn.mos.cms.futurecdn.net/CCiwgv4ci8VtWiKKMHcGZb-650-80.jpg',
